@@ -1,6 +1,6 @@
 package MonthlyChallenge.July;
 
-public class ArrangingCoins {
+public class Day1 {
     public static void main(String[] args) {
         int coin = 8;
         System.out.println(arrangeCoins(coin));
