@@ -21,7 +21,7 @@ public class Day11 {
             return;
         }
 
-        int s = 0;
+        int s;
         for (int n : array) {
             s = output.size();
             for (int i = 0; i < s; i++) {
